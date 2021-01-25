@@ -5,10 +5,10 @@ on:
       - ".github/workflows/py3createtorrent.yml"
       
 env:
-  name: "batocera-29-rockpro64-20201204"
+  name: "batocera-29-rockpro64-20201204-test"
   comment: "By Genetik57 for batocera.org"
-  url: "https://cutt.ly/Qj13xGv"
-  file_name: "batocera-29-rockpro64-20201204.img.gz"
+  url: "https://gmqe33173.swdrive.fr/index.php/s/6pj8ZHFiPLXeKqj/download"
+  file_name: "batocera-29-rockpro64-20201204-test.img.gz"
   piece_size: 0 # 0 for automatic calculation, or use the recommended piece size on the README.md file
       
 jobs:
