@@ -5,10 +5,10 @@ on:
       - ".github/workflows/mktorrent.yml"
       
 env:
-  name: "Firefox Setup 84.0.2"
-  comment: "Firefox Setup 84.0.2 by torrent-webseed-creator"
-  url: "https://gmqe33173.swdrive.fr/index.php/s/RjEsfii5cYHSLyG/download"
-  file_name: "Firefox Setup 84.0.2.exe"
+  name: "batocera-29-miqi-20201203"
+  comment: "By Genetik57"
+  url: "https://pixeldrain.com/api/file/JKQcj9hE?download"
+  file_name: "batocera-29-miqi-20201203.img.gz"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
